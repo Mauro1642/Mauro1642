@@ -1,4 +1,12 @@
-### Hi there 👋
+Hola, mi nombre es Mauro y soy estudiante de Ciencias Fisicas y Ciencias de Datos en busqueda de adquirir conocimientos practicos en el mundo de la ciencia de datos. Algunas de mis habilidades son: 
+
+	- Conocimiento matematico avanzado.
+ 	- Programacion en python.
+	- Conocimiento basico en testing.
+ 	- Ingles Intermedio.
+	- Conocimiento basico de SQL.
+	
+  
 
 <!--
 **Mauro1642/Mauro1642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
